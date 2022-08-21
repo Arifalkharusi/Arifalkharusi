@@ -1,5 +1,4 @@
-### Hi there 👋 I'm currently learning JS!
-
+### Hi there 👋 
 
 - 🔭 I’m currently working on ... becoming a Front-end Dev
 - 🌱 I’m currently learning ... HTML / CSS / JavaScript / React

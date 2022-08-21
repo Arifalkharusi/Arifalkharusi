@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm currently learning JS!
 
 
-- 🔭 I’m currently working on ... JavaScript
-- 🌱 I’m currently learning ... JavaScript
+- 🔭 I’m currently working on ... becoming a Front-end Dev
+- 🌱 I’m currently learning ... HTML / CSS / JavaScript / React
 - 👯 I’m looking to collaborate on ... JavaScript
-- 🤔 I’m looking for help with ... JavaScript
+- 🤔 I’m looking for help with ... JavaScript / React
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... arifalkharusi@hotmail.com
+- 📫 How to reach me: ... on Whatsapp +44 7956013028 
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... Play League of legends!
+- ⚡ Fun fact: ... PC Gamer!
